@@ -3,6 +3,7 @@ from random import gauss
 from random import random
 import os
 
+#Eu estive aqui
 os.system('cls' if os.name == 'nt' else 'clear')
 
 def database(file_data):
